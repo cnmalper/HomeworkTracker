@@ -1,4 +1,4 @@
-# HomeworkTracker
+# Homework Tracker
 Built a Simple Homework Tracker on my 100DaysOfSwiftChallenge. 
 
 ## Used Tech:
